@@ -1,9 +1,4 @@
-# Problem: Substrings of Size Three with Distinct Characters
-# LeetCode: 1876
-# Difficulty: Easy
-# Topic: Sliding Window
-# Time Complexity: O(n)
-# Space Complexity: O(1)
+# Easy - Sliding Window
 
 class Solution(object):
     def numOfSubarrays(self, arr, k, threshold):

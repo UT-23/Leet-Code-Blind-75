@@ -1,9 +1,4 @@
-# Problem: Longest Consecutive Sequence
-# LeetCode: 128
-# Difficulty: Medium
-# Topic: Arrays & Hashing
-# Time Complexity: O(n)
-# Space Complexity: O(n)
+# Medium - Arrays & Hashing
 
 class Solution(object):
     def longestConsecutive(self, nums):

@@ -1,9 +1,4 @@
-# Problem: Backspace String Compare
-# LeetCode: 844
-# Difficulty: Easy
-# Topic: Two Pointers
-# Time Complexity: O(n)
-# Space Complexity: O(n)
+# Easy - Two Pointers
 
 class Solution(object):
     def backspaceCompare(self, s, t):

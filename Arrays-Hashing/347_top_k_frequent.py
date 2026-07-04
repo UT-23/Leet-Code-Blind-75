@@ -1,9 +1,4 @@
-# Problem: Top K Frequent Elements
-# LeetCode: 347
-# Difficulty: Medium
-# Topic: Arrays & Hashing
-# Time Complexity: O(n log n)
-# Space Complexity: O(n)
+# Medium - Arrays & Hashing
 
 class Solution(object):
     def topKFrequent(self, nums, k):

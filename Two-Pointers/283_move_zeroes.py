@@ -1,9 +1,4 @@
-# Problem: Move Zeroes
-# LeetCode: 283
-# Difficulty: Easy
-# Topic: Two Pointers
-# Time Complexity: O(n)
-# Space Complexity: O(1)
+# Easy - Two Pointers
 
 class Solution(object):
     def moveZeroes(self, nums):

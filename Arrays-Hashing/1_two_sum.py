@@ -1,9 +1,4 @@
-# Problem: Two Sum
-# LeetCode: 1
-# Difficulty: Easy
-# Topic: Arrays & Hashing
-# Time Complexity: O(n)
-# Space Complexity: O(n)
+# Easy - Arrays & Hashing
 
 class Solution(object):
     def twoSum(self, nums, target):

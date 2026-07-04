@@ -1,9 +1,4 @@
-# Problem: Max Consecutive Ones III
-# LeetCode: 1004
-# Difficulty: Medium
-# Topic: Sliding Window
-# Time Complexity: O(n)
-# Space Complexity: O(1)
+# Medium - Sliding Window
 
 class Solution(object):
     def longestOnes(self, nums, k):

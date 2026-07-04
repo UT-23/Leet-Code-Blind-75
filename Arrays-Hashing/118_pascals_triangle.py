@@ -1,9 +1,4 @@
-# Problem: Pascal's Triangle
-# LeetCode: 118
-# Difficulty: Easy
-# Topic: Arrays & Hashing
-# Time Complexity: O(n²)
-# Space Complexity: O(n²)
+# Easy - Arrays & Hashing
 
 class Solution(object):
     def generate(self, numRows):

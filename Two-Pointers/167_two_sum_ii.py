@@ -1,9 +1,4 @@
-# Problem: Two Sum II - Input Array Is Sorted
-# LeetCode: 167
-# Difficulty: Medium
-# Topic: Two Pointers
-# Time Complexity: O(n)
-# Space Complexity: O(1)
+# Medium - Two Pointers
 
 class Solution(object):
     def twoSum(self, numbers, target):

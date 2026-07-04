@@ -1,9 +1,4 @@
-# Problem: Best Time to Buy and Sell Stock
-# LeetCode: 121
-# Difficulty: Easy
-# Topic: Sliding Window
-# Time Complexity: O(n)
-# Space Complexity: O(1)
+# Easy - Sliding Window
 
 class Solution(object):
     def maxProfit(self, prices):

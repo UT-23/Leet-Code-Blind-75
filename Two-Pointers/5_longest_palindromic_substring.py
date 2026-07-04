@@ -1,9 +1,4 @@
-# Problem: Longest Palindromic Substring
-# LeetCode: 5
-# Difficulty: Medium
-# Topic: Two Pointers
-# Time Complexity: O(n²)
-# Space Complexity: O(1)
+# Medium - Two Pointers
 
 class Solution(object):
     def longestPalindrome(self, s):

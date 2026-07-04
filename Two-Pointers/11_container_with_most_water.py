@@ -1,9 +1,4 @@
-# Problem: Container With Most Water
-# LeetCode: 11
-# Difficulty: Medium
-# Topic: Two Pointers
-# Time Complexity: O(n)
-# Space Complexity: O(1)
+# Medium - Two Pointers
 
 class Solution(object):
     def maxArea(self, height):

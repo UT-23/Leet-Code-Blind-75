@@ -1,9 +1,4 @@
-# Problem: Trapping Rain Water
-# LeetCode: 42
-# Difficulty: Hard
-# Topic: Two Pointers
-# Time Complexity: O(n)
-# Space Complexity: O(1)
+# Hard - Two Pointers
 
 class Solution(object):
     def trap(self, height):

@@ -1,9 +1,4 @@
-# Problem: Valid Palindrome
-# LeetCode: 125
-# Difficulty: Easy
-# Topic: Two Pointers
-# Time Complexity: O(n)
-# Space Complexity: O(n)
+# Easy - Two Pointers
 
 class Solution(object):
     def isPalindrome(self, s):

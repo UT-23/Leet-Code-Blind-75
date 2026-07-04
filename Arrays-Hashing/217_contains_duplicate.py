@@ -1,9 +1,4 @@
-# Problem: Contains Duplicate
-# LeetCode: 217
-# Difficulty: Easy
-# Topic: Arrays & Hashing
-# Time Complexity: O(n)
-# Space Complexity: O(n)
+# Easy - Arrays & Hashing
 
 class Solution(object):
     def containsDuplicate(self, nums):

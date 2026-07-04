@@ -1,9 +1,4 @@
-# Problem: Maximum Number of Vowels in a Substring of Given Length
-# LeetCode: 1456
-# Difficulty: Medium
-# Topic: Sliding Window
-# Time Complexity: O(n)
-# Space Complexity: O(1)
+# Medium - Sliding Window
 
 class Solution(object):
     def maxVowels(self, s, k):

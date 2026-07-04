@@ -1,9 +1,4 @@
-# Problem: Find Minimum in Rotated Sorted Array
-# LeetCode: 153
-# Difficulty: Medium
-# Topic: Binary Search
-# Time Complexity: O(log n)
-# Space Complexity: O(1)
+# Medium - Binary Search
 
 class Solution(object):
     def findMin(self, nums):

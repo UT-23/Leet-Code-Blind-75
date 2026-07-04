@@ -1,9 +1,4 @@
-# Problem: Longest Substring Without Repeating Characters
-# LeetCode: 3
-# Difficulty: Medium
-# Topic: Sliding Window
-# Time Complexity: O(n)
-# Space Complexity: O(n)
+# Medium - Sliding Window
 
 class Solution(object):
     def lengthOfLongestSubstring(self, s):

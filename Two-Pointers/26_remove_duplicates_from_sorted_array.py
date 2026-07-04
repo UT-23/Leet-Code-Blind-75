@@ -1,9 +1,4 @@
-# Problem: Remove Duplicates from Sorted Array
-# LeetCode: 26
-# Difficulty: Easy
-# Topic: Two Pointers
-# Time Complexity: O(n)
-# Space Complexity: O(1)
+# Easy - Two Pointers
 
 class Solution(object):
     def removeDuplicates(self, nums):

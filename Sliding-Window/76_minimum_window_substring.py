@@ -1,9 +1,4 @@
-# Problem: Minimum Window Substring
-# LeetCode: 76
-# Difficulty: Hard
-# Topic: Sliding Window
-# Time Complexity: O(n)
-# Space Complexity: O(n)
+# Hard - Sliding Window
 
 class Solution(object):
     def minWindow(self, s, t):

@@ -1,10 +1,4 @@
-
-# Problem: Plus One
-# LeetCode: 66
-# Difficulty: Easy
-# Topic: Arrays & Hashing
-# Time Complexity: O(n)
-# Space Complexity: O(1)
+# Easy - Arrays & Hashing
 
 class Solution(object):
     def plusOne(self, digits):

@@ -1,9 +1,4 @@
-# Problem: Product of Array Except Self
-# LeetCode: 238
-# Difficulty: Medium
-# Topic: Arrays & Hashing
-# Time Complexity: O(n)
-# Space Complexity: O(n)
+# Medium - Arrays & Hashing
 
 class Solution(object):
     def productExceptSelf(self, nums):

@@ -1,12 +1,4 @@
-
-
-
-# Problem: Find the K-Beauty of a Number
-# LeetCode: 2269
-# Difficulty: Easy
-# Topic: Sliding Window
-# Time Complexity: O(d)
-# Space Complexity: O(d)
+# Easy - Sliding Window
 
 class Solution(object):
     def divisorSubstrings(self, num, k):

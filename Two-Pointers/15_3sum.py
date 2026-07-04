@@ -1,9 +1,4 @@
-# Problem: 3Sum
-# LeetCode: 15
-# Difficulty: Medium
-# Topic: Two Pointers
-# Time Complexity: O(n²)
-# Space Complexity: O(1)
+# Medium - Two Pointers
 
 class Solution(object):
     def threeSum(self, nums):
