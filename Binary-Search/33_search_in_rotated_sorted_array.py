@@ -1,3 +1,10 @@
+# Problem: Search in Rotated Sorted Array
+# LeetCode: 33
+# Difficulty: Medium
+# Topic: Binary Search
+# Time Complexity: O(log n)
+# Space Complexity: O(1)
+
 class Solution(object):
     def search(self, nums, target):
         """

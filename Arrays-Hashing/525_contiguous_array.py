@@ -1,3 +1,10 @@
+# Problem: Contiguous Array
+# LeetCode: 525
+# Difficulty: Medium
+# Topic: Arrays & Hashing
+# Time Complexity: O(n)
+# Space Complexity: O(n)
+
 class Solution(object):
     def findMaxLength(self, nums):
         """

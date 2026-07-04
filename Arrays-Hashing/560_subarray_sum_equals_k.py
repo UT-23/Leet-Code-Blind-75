@@ -1,3 +1,10 @@
+# Problem: Subarray Sum Equals K
+# LeetCode: 560
+# Difficulty: Medium
+# Topic: Arrays & Hashing
+# Time Complexity: O(n)
+# Space Complexity: O(n)
+
 class Solution(object):
     def subarraySum(self, nums, k):
         """

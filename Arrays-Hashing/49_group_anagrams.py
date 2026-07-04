@@ -1,3 +1,10 @@
+# Problem: Group Anagrams
+# LeetCode: 49
+# Difficulty: Medium
+# Topic: Arrays & Hashing
+# Time Complexity: O(n * k log k)
+# Space Complexity: O(n * k)
+
 class Solution(object):
     def groupAnagrams(self, strs):
         """

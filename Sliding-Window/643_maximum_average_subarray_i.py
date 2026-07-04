@@ -1,3 +1,10 @@
+# Problem: Maximum Average Subarray I
+# LeetCode: 643
+# Difficulty: Easy
+# Topic: Sliding Window
+# Time Complexity: O(n)
+# Space Complexity: O(1)
+
 class Solution(object):
     def findMaxAverage(self, nums, k):
         """

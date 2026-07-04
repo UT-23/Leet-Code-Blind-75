@@ -1,3 +1,10 @@
+# Problem: First Missing Positive
+# LeetCode: 41
+# Difficulty: Hard
+# Topic: Arrays & Hashing
+# Time Complexity: O(n)
+# Space Complexity: O(1)
+
 class Solution(object):
     def firstMissingPositive(self, nums):
         """
